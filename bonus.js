@@ -1,0 +1,1 @@
+const lampadina = document.getElementById('lampadina');
